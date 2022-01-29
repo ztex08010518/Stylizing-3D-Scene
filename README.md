@@ -3,7 +3,7 @@ PyTorch implementaton of our WACV 2022 paper "Stylizing 3D Scene via Implicit Re
 You can visit our project website [here](https://ztex08010518.github.io/3dstyletransfer/).
 
 In this work, we aim to address the 3D scene stylization problem - generating stylized images of the scene at arbitrary novel view angles.  
-<div align=center><img height="230" src="https://github.com/ztex08010518/Stylizing-3D-Scene/blob/main/samples/teaser.png"/></div>
+<div align=center><img height="230" src="https://github.com/ztex08010518/Stylizing-3D-Scene/blob/main/sample/teaser.png"/></div>
 
 ## Paper
 [Stylizing 3D Scene via Implicit Representation and HyperNetwork](https://openaccess.thecvf.com/content/WACV2022/papers/Chiang_Stylizing_3D_Scene_via_Implicit_Representation_and_HyperNetwork_WACV_2022_paper.pdf)  
@@ -27,7 +27,6 @@ Please cite our paper if you find it useful for your research.
 ## Dataset and Pretrained Weight
 * Dataset: [Tanks and Temples](https://drive.google.com/file/d/15-4XEjFf7YAOh2ft9RC_DZew11YMjNCj/view?usp=sharing) and [Wikiart images](https://www.kaggle.com/c/painter-by-numbers)  
 NOTE: Download the datasets from here and unzip them under ./Tanks\_and\_Temples and ./wikiart/train.
-
 * Pretrained Weight: [Second stage](https://drive.google.com/file/d/1uEPHdHp2HA-kqq_pvNy6dfMZovv2gdFM/view?usp=sharing)  
 NOTE: Download the pretrained weight from here and put it under ./logs/Family\_second\_stage/  
 
