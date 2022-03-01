@@ -27,8 +27,8 @@ Please cite our paper if you find it useful for your research.
 ## Dataset and Pretrained Weight
 * Dataset: [Tanks and Temples](https://drive.google.com/file/d/15-4XEjFf7YAOh2ft9RC_DZew11YMjNCj/view?usp=sharing) and [Wikiart images](https://www.kaggle.com/c/painter-by-numbers)  
 NOTE: Download the datasets from here and unzip them under ./Tanks\_and\_Temples and ./wikiart/train.
-* Pretrained Weight: [Second stage](https://drive.google.com/file/d/1uEPHdHp2HA-kqq_pvNy6dfMZovv2gdFM/view?usp=sharing)  
-NOTE: Download the pretrained weight from here and put it under ./logs/Family\_second\_stage/  
+* Pretrained Weights: [Second stage](https://drive.google.com/drive/folders/1hu7NSdi1NxgrxDxmkek3G_hNhytRrWoA?usp=sharing)  
+NOTE: Download the pretrained weight from here and put it under ./logs/[scene\_name]\_second\_stage/ (scene\_name: Family, Francis, Horse, Playground, Truck)  
 
 ## Testing
 1. First Stage: 

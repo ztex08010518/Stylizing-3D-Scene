@@ -5,7 +5,7 @@ scene = tat_intermediate_Family
 expname = Family_first_stage/test
 basedir = ./logs
 config = None
-ckpt_path = ./logs/Family_first_stage/model_250000.pth
+ckpt_path = ./logs/Family_first_stage/Family_first_250000.pth
 no_reload = False
 testskip = 1
 

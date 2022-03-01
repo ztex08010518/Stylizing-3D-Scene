@@ -2,11 +2,11 @@
 N_style = 112
 stage = second
 datadir = ./Tanks_and_Temples
-first_stage_weight = ./logs/Family_first_stage/model_250000.pth
+first_stage_weight = ./logs/Family_first_stage/Family_first_250000.pth
 scene = tat_intermediate_Family
 expname = Family_second_stage/test
 basedir = ./logs
-ckpt_path = ./logs/Family_second_stage/model_100000.pth
+ckpt_path = ./logs/Family_second_stage/Family_second_100000.pth
 no_reload = False
 testskip = 1
 
